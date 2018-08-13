@@ -1,0 +1,11 @@
+E:\DB-Advanced\17.Practical-Exam-12.08.18\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.deps.json
+E:\DB-Advanced\17.Practical-Exam-12.08.18\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.json
+E:\DB-Advanced\17.Practical-Exam-12.08.18\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.dev.json
+E:\DB-Advanced\17.Practical-Exam-12.08.18\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.dll
+E:\DB-Advanced\17.Practical-Exam-12.08.18\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.pdb
+E:\DB-Advanced\17.Practical-Exam-12.08.18\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.csproj.CoreCompileInputs.cache
+E:\DB-Advanced\17.Practical-Exam-12.08.18\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfoInputs.cache
+E:\DB-Advanced\17.Practical-Exam-12.08.18\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfo.cs
+E:\DB-Advanced\17.Practical-Exam-12.08.18\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.dll
+E:\DB-Advanced\17.Practical-Exam-12.08.18\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.pdb
+E:\DB-Advanced\17.Practical-Exam-12.08.18\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.csprojAssemblyReference.cache
